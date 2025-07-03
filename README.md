@@ -1,5 +1,7 @@
 # DeathSSL Xposed Module
 
+![DeathSSL Demo](https://raw.githubusercontent.com/frostyxsec/DeathSSL/refs/heads/main/demo_deathssl.png)
+
 **DeathSSL** adalah module Xposed yang dirancang untuk **menonaktifkan SSL Pinning** pada aplikasi Android. Dengan modul ini, pengguna dapat melakukan intercept dan debugging traffic HTTPS menggunakan tools seperti **Burp Suite**, **Charles Proxy**, atau **Wireshark**, meskipun aplikasi target menggunakan SSL Pinning.
 
 > ⚠️ **PERINGATAN**: Penggunaan module ini hanya diperbolehkan untuk keperluan **pengujian keamanan**, **pentesting aplikasi milik sendiri**, atau **penelitian edukatif**. Penggunaan untuk tujuan jahat melanggar hukum dan etika.
