@@ -47,7 +47,8 @@
 4. Atur proxy wifi
 5. SSL Pinning pada aplikasi target akan dilewati, memungkinkan intercept HTTPS.
 
-![DeathSSL in Action](https://raw.githubusercontent.com/frostyxsec/DeathSSL/refs/heads/main/testing_deathssl.png
+![DeathSSL in Action](https://raw.githubusercontent.com/frostyxsec/DeathSSL/refs/heads/main/testing_deathssl.png)
+
 ---
 
 ## 🛠 Kompatibilitas
