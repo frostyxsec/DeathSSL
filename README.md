@@ -44,8 +44,10 @@
 1. Pastikan modul sudah aktif dan perangkat telah direboot.
 2. Jalankan aplikasi target.
 3. Pastikan proxy Anda (Burp, Charles, dsb.) sudah berjalan.
-4. SSL Pinning pada aplikasi target akan dilewati, memungkinkan intercept HTTPS.
+4. Atur proxy wifi
+5. SSL Pinning pada aplikasi target akan dilewati, memungkinkan intercept HTTPS.
 
+![DeathSSL in Action](https://raw.githubusercontent.com/frostyxsec/DeathSSL/refs/heads/main/testing_deathssl.png
 ---
 
 ## 🛠 Kompatibilitas
