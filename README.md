@@ -39,7 +39,7 @@
 
 ## 📋 Cara Penggunaan
 
-1. Pastikan modul sudah aktif dan perangkat telah direboot.
+1. Pastikan modul sudah aktif serta ceklist apk yang ingin di bypass sslnya di lsposed dan perangkat telah direboot.
 2. Jalankan aplikasi target.
 3. Pastikan proxy Anda (Burp, Charles, dsb.) sudah berjalan.
 4. Atur proxy wifi
